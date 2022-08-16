@@ -11,11 +11,11 @@ Skip a few years and lots of debugging and you arrive at where are today. I’m 
 
 Here are a few technologies I’ve been using lately:
 
- [x] Python
- [x] C++
- [x] C#
- [x] Unity
- [x] TypeScript
+- [x] Python
+- [x] C++
+- [x] C#
+- [x] Unity
+- [x] TypeScript
 
 ## Projects
 
