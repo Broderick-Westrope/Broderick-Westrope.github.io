@@ -11,20 +11,20 @@ Skip a few years and lots of debugging and you arrive at where are today. I’m 
 
 Here are a few technologies I’ve been using lately:
 
-- [x] Python
-- [x] C++
-- [x] C#
-- [x] Unity
-- [x] TypeScript
+ [x] Python
+ [x] C++
+ [x] C#
+ [x] Unity
+ [x] TypeScript
 
 ## Projects
 
 ### Mario 64 Remake:
 Inspired by [Nimso Ny’s](https://www.youtube.com/channel/UCgQlIfKzMdicB4vE69JjW_A) remake of the first level of Mario 64, I decided to attempt to remake it with my own twist using Unity and open-source models.
 
-<div style="text-align: right"> ### Seamless:
+<div style="text-align: right"> ### Seamless: </div>
 
-This is a game I started creating after coming up with the idea while at TAFE. The main repository/project hasn’t been updated in some time as I am in a phase of testing and getting feedback. I hope to someday release it as an indie game. </div>
+This is a game I started creating after coming up with the idea while at TAFE. The main repository/project hasn’t been updated in some time as I am in a phase of testing and getting feedback. I hope to someday release it as an indie game. 
 
 ### Game of Hex, Chess, and Crazy-House:
 As part of an assignment for University, I had to create a command-line based version of Game of Hex that had several AI opponents. This really intrigued me and I wanted to push myself further with the concept so I teamed up with a fellow student, Joshua Meadows, to make chess with AI opponents of varying difficulty. Currently, I have made the base game that runs on the command-line for a simple environment to create the AI while Joshua learns front-end development. After making chess, I aspire to use the knowledge gained to make a variation called Crazy-House.
