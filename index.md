@@ -22,7 +22,7 @@ Here are a few technologies I’ve been using lately:
 ### Mario 64 Remake:
 Inspired by [Nimso Ny’s](https://www.youtube.com/channel/UCgQlIfKzMdicB4vE69JjW_A) remake of the first level of Mario 64, I decided to attempt to remake it with my own twist using Unity and open-source models.
 
-<div style="text-align: right"> ### Seamless: </div>
+<h3 style="text-align: right"> Seamless: </h3>
 
 This is a game I started creating after coming up with the idea while at TAFE. The main repository/project hasn’t been updated in some time as I am in a phase of testing and getting feedback. I hope to someday release it as an indie game. 
 
